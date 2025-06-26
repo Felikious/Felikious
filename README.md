@@ -5,7 +5,7 @@ Interested in Game development, Java, databases and automation
 
 ---
 
-##Pinned Projects
+## Pinned Projects
 
 ### Battle Of Lake Poyang
 C++ university project, trying to simulate a famous battle.
@@ -14,3 +14,10 @@ C++ university project, trying to simulate a famous battle.
 ---
 
 ## Languages 
+
+C++
+Java
+Python
+HTML
+CSS
+and trying to learn more
