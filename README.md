@@ -1,4 +1,4 @@
-# Hi!! I am Felikious
+# Hi!! I am Felikious (Profile under development)
 
 CS student experimenting with code, building cool stuff
 Interested in Game development, Java, databases and automation
