@@ -1,33 +1,43 @@
 # Hi!! I am Felikious 
 
-CS student experimenting with code, building cool stuff
-Interested in software development, Java, databases and automation
+**Computer Science Student** experimenting with code, building cool stuff
+Interested in **software development**, **Java**, **databases** and **automation**
 
 ---
 
-##  Pinned Projects
+##  Featured Projects
 
 ### Battle Of Lake Poyang
-C++ university project, trying to simulate a famous battle.
-[View Repo](https://github.com/Felikious/BattleOfLakePoyang)
-
-### Database for dairy product company
-An SQL-Django project, to keep track of production and products.
-[View Repo (Not currently online)]
+A **C++** game based on historic events, developed as university project
+Implements **object oriented design**, game logic, and simulation logic
+[🔗 View Repo](https://github.com/Felikious/BattleOfLakePoyang)
 
 
-### Sychronisation of two excel files
-A python app merging two excel files, mimicing "on update, cascade"
-[View Repo (Not currently online)]
+### Checking for changes in Excel files
+A python utility that checks for changes in Excel files by comparing
+SHA-256 hashes of data ignoring meta-data.
+Ideal for integrity checking in data workflows
+[🔗 View Repo](https://github.com/Felikious/BattleOfLakePoyang)
+
+
+
+### Database for dairy product company (Under Development)
+An full stack **Django** and **SQL** project for managing production,
+inventory, and product tracking for a dairy company,
+Includes database design, and a responsive UI
+Repo coming soon
+
+
+
 
 
 ---
 
 ## Languages 
 
-C++
-Java
-Python
-HTML
-CSS
-and trying to learn more
+C++ · 
+Java · 
+Python · 
+HTML · 
+CSS · SQL ·
+and still learning
